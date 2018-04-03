@@ -1,3 +1,3 @@
 <?php
-scandir('.');
+var_dump(scandir('.'));
 ?> 
